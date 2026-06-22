@@ -14,7 +14,7 @@ function Home({ isDarkTheme, onViewProjects }) {
 				'A full-stack AI-powered financial advisor that analyzes monthly income and expenses to generate a personalized financial health report — including a 0–100 health score, spending breakdown, and goal feasibility — in under 10 seconds.',
 			tags: ['React.js', 'Node.js', 'Express.js', 'Groq API', 'Recharts'],
 			githubUrl: 'https://github.com/khanjan2024/WealthLens',
-			liveUrl: '',
+			liveUrl: 'https://wealth-lens-git-main-khanjan-naths-projects.vercel.app/',
 		},
 		{
 			id: 2,
@@ -24,7 +24,7 @@ function Home({ isDarkTheme, onViewProjects }) {
 				'A clinical decision-support web app that predicts risk across 4 diseases (diabetes, heart disease, liver disease, kidney disease) using 3 ML models — Logistic Regression, SVM, and a Neural Network — all implemented from scratch using pure NumPy.',
 			tags: ['Python', 'NumPy', 'Streamlit', 'Plotly'],
 			githubUrl: 'https://github.com/khanjan2024/MedHelp',
-			liveUrl: '',
+			liveUrl: 'https://med2026.streamlit.app/',
 		},
 		{
 			id: 3,
@@ -34,7 +34,7 @@ function Home({ isDarkTheme, onViewProjects }) {
 				'A full-stack civic reporting platform enabling citizens to submit geo-tagged issue reports (potholes, garbage, street lights, etc.) with optional photo evidence, supporting both authenticated and anonymous submissions.',
 			tags: ['Node.js', 'Express.js', 'SQLite', 'EJS', 'Multer', 'bcryptjs'],
 			githubUrl: 'https://github.com/khanjan2024/CivicMitra',
-			liveUrl: '',
+			liveUrl: 'https://civicpulse-lznp.onrender.com/',
 		},
 	];
 
