@@ -35,7 +35,7 @@ function Projects({ isDarkTheme }) {
     {
       id: 1,
       title: 'WealthLens — AI Personal Finance Advisor',
-      period: 'Nov 2024 - Dec 2024',
+      period: 'May 2026',
       description: 'A full-stack AI-powered financial advisor that analyzes monthly income and expenses to generate a personalized financial health report — including a 0–100 health score, spending breakdown, and goal feasibility — in under 10 seconds. Features a Node.js/Express backend integrating Groq’s Llama 3.3 70B model for structured JSON plans based on Indian salary and expense contexts.',
       technologies: ['React.js', 'Node.js', 'Express.js', 'Groq API (Llama 3.3 70B)', 'Recharts'],
       githubUrl: 'https://github.com/khanjan2024/WealthLens',
@@ -44,7 +44,7 @@ function Projects({ isDarkTheme }) {
     {
       id: 2,
       title: 'MedHelp — Multiple Disease Recognition System',
-      period: 'Sept 2024 - Oct 2024',
+      period: 'April 2026 - May 2026',
       description: 'A clinical decision-support web app that predicts risk across 4 diseases (diabetes, heart disease, liver disease, kidney disease) using 3 ML models — Logistic Regression, SVM, and a Neural Network — all implemented from scratch using pure NumPy. Streamlit app includes side-by-side model comparison, probability risk scores, and loss convergence curves.',
       technologies: ['Python', 'NumPy', 'Streamlit', 'Plotly'],
       githubUrl: 'https://github.com/khanjan2024/MedHelp',
@@ -52,8 +52,8 @@ function Projects({ isDarkTheme }) {
     },
     {
       id: 3,
-      title: 'CivicMitra — Civic Issue Reporting Platform',
-      period: 'Jul 2024 - Aug 2024',
+      title: 'CivicPulse — Civic Issue Reporting Platform',
+      period: 'March 2026',
       description: 'A full-stack civic reporting platform enabling citizens to submit geo-tagged issue reports (potholes, garbage, street lights, etc.) with optional photo evidence. Implements role-based access control (citizen, authority, admin), session-based authentication, SQLite persistence, and disk-stored image management.',
       technologies: ['Node.js', 'Express.js', 'SQLite', 'EJS', 'Multer', 'bcryptjs'],
       githubUrl: 'https://github.com/khanjan2024/CivicMitra',
@@ -61,8 +61,8 @@ function Projects({ isDarkTheme }) {
     },
     {
       id: 4,
-      title: 'College Management System',
-      period: 'May 2024 - Jun 2024',
+      title: 'Student Life Management System',
+      period: 'July 2025 - August 2025',
       description: 'A comprehensive MERN-stack college management platform supporting three roles (admin, teacher, student) with features including attendance tracking, exam result management, assignment submission, timetable creation, and subject performance analytics. Deployed on Render/Netlify with MongoDB Atlas.',
       technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Redux', 'JWT', 'Material-UI'],
       githubUrl: 'https://github.com/khanjan2024/StudentLifeManagementSystem',

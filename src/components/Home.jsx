@@ -9,7 +9,7 @@ function Home({ isDarkTheme, onViewProjects }) {
 		{
 			id: 1,
 			title: 'WealthLens — AI Personal Finance Advisor',
-			period: 'Nov 2024 - Dec 2024',
+			period: 'May 2026',
 			description:
 				'A full-stack AI-powered financial advisor that analyzes monthly income and expenses to generate a personalized financial health report — including a 0–100 health score, spending breakdown, and goal feasibility — in under 10 seconds.',
 			tags: ['React.js', 'Node.js', 'Express.js', 'Groq API', 'Recharts'],
@@ -19,7 +19,7 @@ function Home({ isDarkTheme, onViewProjects }) {
 		{
 			id: 2,
 			title: 'MedHelp — Multiple Disease Recognition System',
-			period: 'Sept 2024 - Oct 2024',
+			period: 'April 2026 - May 2026',
 			description:
 				'A clinical decision-support web app that predicts risk across 4 diseases (diabetes, heart disease, liver disease, kidney disease) using 3 ML models — Logistic Regression, SVM, and a Neural Network — all implemented from scratch using pure NumPy.',
 			tags: ['Python', 'NumPy', 'Streamlit', 'Plotly'],
@@ -28,8 +28,8 @@ function Home({ isDarkTheme, onViewProjects }) {
 		},
 		{
 			id: 3,
-			title: 'CivicMitra — Civic Issue Reporting Platform',
-			period: 'Jul 2024 - Aug 2024',
+			title: 'CivicPulse — Civic Issue Reporting Platform',
+			period: 'March 2026',
 			description:
 				'A full-stack civic reporting platform enabling citizens to submit geo-tagged issue reports (potholes, garbage, street lights, etc.) with optional photo evidence, supporting both authenticated and anonymous submissions.',
 			tags: ['Node.js', 'Express.js', 'SQLite', 'EJS', 'Multer', 'bcryptjs'],
