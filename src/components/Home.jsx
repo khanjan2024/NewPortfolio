@@ -104,7 +104,7 @@ function Home({ isDarkTheme, onViewProjects }) {
 			<section className="mt-12 text-center">
 				<h2 className={`text-4xl font-bold mb-2 ${isDarkTheme ? 'text-white' : 'text-black'}`}>My Resume</h2>
 				<p className={`text-lg mb-4 ${isDarkTheme ? 'text-gray-300' : 'text-secondary'}`}>Interested in my professional journey? View my resume.</p>
-				<a href="https://1drv.ms/b/c/a0cea92a671f6243/EXwq3RdZ3M1JutS8S3nSG4QBvGZ-pCr3t6b1jAslscmpVA?e=rm57TL" target="_blank" rel="noopener noreferrer" className={`inline-flex items-center justify-center gap-2 h-10 px-4 py-2 rounded-md transition-colors ${isDarkTheme ? '!bg-white !text-black hover:!bg-gray-200' : 'bg-black text-white hover:bg-gray-800'}`}>
+				<a href="https://drive.google.com/file/d/114Zg_nvpZMTPMXnpPM9QXq3o7b_wEdkY/view?usp=sharing" target="_blank" rel="noopener noreferrer" className={`inline-flex items-center justify-center gap-2 h-10 px-4 py-2 rounded-md transition-colors ${isDarkTheme ? '!bg-white !text-black hover:!bg-gray-200' : 'bg-black text-white hover:bg-gray-800'}`}>
 					<FontAwesomeIcon icon={faFile} />
 					View Resume
 				</a>
